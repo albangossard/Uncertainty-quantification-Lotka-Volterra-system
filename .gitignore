@@ -1,0 +1,5 @@
+cpp_core/MC.py
+cpp_core/MC_wrap.cpp
+cpp_core/build/
+*.pyc
+*.so
